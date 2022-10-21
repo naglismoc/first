@@ -1,0 +1,16 @@
+body{
+    background-color: #ff456725;
+}
+li{
+  font-size: 25px;  
+}
+ul > li {
+  font-weight: 900;  
+}
+.liElement{
+    font-weight: 900;
+}
+#imgHouse{
+    width: 400px;
+    height: 300px;
+}
